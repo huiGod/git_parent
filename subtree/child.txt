@@ -1,3 +1,4 @@
 test child
+test2 child
 hello test
 hello world
